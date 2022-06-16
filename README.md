@@ -1,4 +1,4 @@
-# Infrastructure as Code to create and Maintain NSG and NLB
+# Terraform/Terragunt to maintain ASG and NLB
 
 This repository contains the config-as-code to create and maintain the NSG and NLB. 
 
